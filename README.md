@@ -1,7 +1,7 @@
 # geodata_linebot
 王映之 社群運算與大數據分析 期末報告
 
-專案題目 
+專案題目：
 
 2016-bonzanini-packt-Mastering social media mining with Python
 
