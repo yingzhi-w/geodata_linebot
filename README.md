@@ -9,10 +9,12 @@ ch09.Linked data and the semantic web 更簡化更靈活更實用的方法
 
 ---------------------------------------------------------
 geodata.py
+
 使用input取代ArgumentParser從命令列獲取輸入
 
 ---------------------------------------------------------
 geodata_linebot.py
+
 結合line bot developer webhook，使用colab與ngrok當臨時伺服器
 
 ---------------------------------------------------------
